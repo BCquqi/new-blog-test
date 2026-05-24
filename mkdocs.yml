@@ -6,3 +6,5 @@ theme:
   name: material
   features:
     - blog
+    - blog.pagination
+    - blog.tags
